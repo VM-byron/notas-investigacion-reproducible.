@@ -9,6 +9,7 @@ El término reproducibilidad (o reproducibility, en inglés) se refiere a la cap
 ¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la década de 1990, un geofísico estadounidense llamado John Claerbout realizó la siguiente afirmación:
 
 > Con el fin de resolver esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos (FDA), empezaron a publicar lineamientos para atacar los problemas derivados de una inadecuada documentación de los experimentos basados en ensayos aleatorios. De manera simultánea, se le dio más importancia a la calidad de los datos utilizados en las investigaciones. Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 2016 que un 20% de los artículos con archivos de datos suplementarios publicados en revistas científicas contenían errores en los nombres de los genes, debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).
+
 ! [Figura.1.  Resultados de la revision sistematica de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).] (https://gf0604-procesamientodatosgeograficos.github.io/2022-i/img/ZiemannEtAlFig1.png)
 
 ## Bibliografia
